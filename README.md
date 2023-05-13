@@ -1,5 +1,5 @@
-# Python_ML_Toolkit
+# Python ML Toolkit
 A Toolkit For Machine Learning 
 
 ## Contents
-### Cooccurance Matrix Maker
+  1. Co Occurance Matrix
